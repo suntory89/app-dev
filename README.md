@@ -1,2 +1,3 @@
-# app-dev
-My first repository
+# Favorite Series: Manhwa or Anime: *Dandadan*
+## Synopsis
+Momo Ayase is a high school girl who believes in ghosts but not aliens, while her fellow highschooler, Ken Takakura, whom Momo nicknames "Okarun", believes in aliens but not ghosts. In a bet to determine who is correct, the two decide to separately visit locations associated with both the occult and the extraterrestrial—Momo visiting the former, and Okarun visiting the latter. Momo is abducted by a group of aliens who accidentally unblock her chakras, enabling latent psychic abilities. Meanwhile, Okarun is possessed by a spirit who takes over his body. By using Momo's abilities and Okarun's possessed form, they defeat the aliens together.
